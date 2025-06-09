@@ -21,7 +21,7 @@ This repository contains an interactive Power BI dashboard developed to analyze 
 
 ## 📎 Preview
 
-![Dashboard Preview](link-to-screenshot-or-demo.gif)
+https://app.powerbi.com/groups/357b476f-715a-403b-b236-696d7ee778f0/dashboards/f6b3af27-35aa-498f-9af1-49ff16015c4a?ctid=de48c0a9-b273-4256-bf3f-a462f226476a&pbi_source=linkShare
 
 ## 📁 Files
 
