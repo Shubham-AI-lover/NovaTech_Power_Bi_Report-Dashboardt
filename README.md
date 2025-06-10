@@ -34,4 +34,4 @@ https://app.powerbi.com/links/TmuTPoDJzH?ctid=de48c0a9-b273-4256-bf3f-a462f22647
 
 ## 📬 Contact
 
-For feedback or questions, feel free to connect via [LinkedIn](your-profile-link).
+For feedback or questions, feel free to connect via [LinkedIn](https://www.linkedin.com/in/shubhamsharmaanalyst/).
